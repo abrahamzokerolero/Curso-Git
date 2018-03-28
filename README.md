@@ -1,2 +1,2 @@
 # Curso-Git
-Repo de prueba con Git y Github
+Repo de prueba con Git y Github (Uso de Pull)
